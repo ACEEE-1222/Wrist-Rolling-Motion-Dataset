@@ -1,7 +1,7 @@
 # Wrist-Rolling-Motion-Dataset
 This repository contains the WRM (Wrist-Rolling Motion) dataset, which includes wrist-rolling motion data collected from users attempting to unlock their mobile phones. The dataset captures the dynamics of wrist movements through three types of sensors: the orientation sensor, the linear acceleration sensor, and the gyroscope sensor. 
 
-
+![Wrist Rolling Motion Example](Wrist-Rolling Motion.png)
 
 ## Overview
 The WRMR dataset comprises wrist-rolling motion data collected from 20 randomly selected users as they simulate the action of unlocking their mobile phones. Each sample in this dataset includes 8 variables recorded over 50 time steps, providing valuable insights into wrist movement dynamics.
